@@ -18,7 +18,7 @@
 4. "SMTP Ayarları" ve "Koruma Modülleri" sekmelerinden yapılandırmanızı tamamlayın.
 
 ## 👨‍💻 Geliştirici
-**Erkam KAYA** IT Support Specialist @ ARN Fintech  
+**Erkam KAYA** IT Support Specialist
 [Web Sitesi](https://erkamkaya.com) | [LinkedIn](https://linkedin.com/in/erkamkaya)
 
 ---
