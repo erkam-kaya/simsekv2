@@ -18,7 +18,7 @@
 4. "SMTP Ayarları" ve "Koruma Modülleri" sekmelerinden yapılandırmanızı tamamlayın.
 
 ## 👨‍💻 Geliştirici
-**Erkam KAYA** IT Support Specialist
+**Erkam KAYA**
 [Web Sitesi](https://erkamkaya.com) | [LinkedIn](https://linkedin.com/in/erkamkaya)
 
 ---
